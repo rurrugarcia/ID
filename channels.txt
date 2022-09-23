@@ -28,10 +28,6 @@ acestream://12e7fb26141ec4a6d99588e0e870a1a441b37f83
 acestream://ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png", DAZN2
 acestream://3e0b292ab03f258f993ba6833b254cca33a79d74
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png", DAZN1_HD_
-acestream://137ccef306febbd4509b5a374f08df1151bf388c
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png", DAZN1_HD_M
-acestream://4cff8e802e9fb0b43fd4575444c3abac9ac00b40
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png", DAZN 1 1080
 acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png", DAZN 1 720
@@ -64,6 +60,10 @@ acestream://d8512e64f34a117afb656f5c66cf8d88023c9570
 acestream://c81fb4bec54fed86737544c5609bb863b4acb292
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png", LIGA SMARTBANK
 acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png", Liga Smartbank_HD
+acestream://137ccef306febbd4509b5a374f08df1151bf388c
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png", Liga Smartbank_HD_M
+acestream://4cff8e802e9fb0b43fd4575444c3abac9ac00b40
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png", Smartbank 1080 MultiAudio
 acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png", Smartbank 720
@@ -128,6 +128,10 @@ acestream://c2cd03703ed2a6039668778cb4a36544a7c951ed
 acestream://87a043de5d4cd60c731bc00d09f13bad8d882164
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", MOVISTAR DEPORTES
 acestream://d580d53613be09c7a5388d808509f6c97ec07df2
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png", # Vamos 720
+acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", M. Deportes 720
+acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png", # Vamos 1080
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", M. Deportes 1080
