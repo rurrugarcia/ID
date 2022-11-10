@@ -2,10 +2,10 @@
 
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png", DAZN LA LIGA
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png", Dazn Liga 1080 MultiAudio
-acestream://df98650743f24a245c44cdf2851e57078f4c487a
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png", Dazn Liga 2 720
 acestream://d83a3242e10ecffc31a16a02890de199a65dd8d9
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png", Dazn Liga 1080 MultiAudio
+acestream://df98650743f24a245c44cdf2851e57078f4c487a
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png", Dazn Liga 1080 MultiAudio 
 acestream://fee5612d57824b6e8db780f210ec54093056dc3a
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png", Dazn Liga 720 
@@ -156,10 +156,10 @@ acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="", Canal #Ellas
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
-#EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png", GOL TV 1080
-acestream://49c35606668ebf7a895434ec4c9243a163d87718
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="", SmartBanck 720
 acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
+#EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png", GOL TV 1080
+acestream://49c35606668ebf7a895434ec4c9243a163d87718
 #EXTINF:-1 group-title="Otro contenido" tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png", tdp 1080 (TeleDeporte) 
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 #EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png", LA 1 1080
