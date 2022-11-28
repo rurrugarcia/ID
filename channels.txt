@@ -8,8 +8,6 @@ acestream://e3f3ffd375d2d22c09731a0a8f400581cced1401
 acestream://dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png", LaLiga_720 
 acestream://d8512e64f34a117afb656f5c66cf8d88023c9570
-#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png", FC Cartagena - Eibar
-acestream://aa0a5fd60f197eae4e3fbedc1206378a0c226590
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png", MLCampeones_720
 acestream://f90c6899eb5cadb0050226548246adb56ceade8a
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png", MLCampeones 2_720
@@ -22,3 +20,5 @@ acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
 acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png", #vamos_720
 acestream://b888712c494a93739d4f275806d7e4feb4c6d2f8
+#EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png", Gol Mundial _M_HD
+acestream://aa0a5fd60f197eae4e3fbedc1206378a0c226590
