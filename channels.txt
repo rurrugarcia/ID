@@ -20,5 +20,3 @@ acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
 acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png", #vamos_720
 acestream://b888712c494a93739d4f275806d7e4feb4c6d2f8
-#EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png", Gol Mundial _M_HD
-acestream://aa0a5fd60f197eae4e3fbedc1206378a0c226590
